@@ -53,4 +53,5 @@ Each chart and card is interactive and filterable for deep HR insight.
 
 > Include a screenshot here if uploading to GitHub  
 > Example:  
-> ![HR Dashboard](Atlas%20Labs%20BG.png)
+> ![image](https://github.com/user-attachments/assets/9c99366f-71a3-40b8-808a-f37ac95022f5)
+
