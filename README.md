@@ -51,7 +51,5 @@ Each chart and card is interactive and filterable for deep HR insight.
 
 ## 📷 Dashboard Preview
 
-> Include a screenshot here if uploading to GitHub  
-> Example:  
-> ![image](https://github.com/user-attachments/assets/9c99366f-71a3-40b8-808a-f37ac95022f5)
+![image](https://github.com/user-attachments/assets/9c99366f-71a3-40b8-808a-f37ac95022f5)
 
