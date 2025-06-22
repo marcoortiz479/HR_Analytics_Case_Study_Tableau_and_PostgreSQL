@@ -1,41 +1,56 @@
-# 📊 HR Analytics Case Study | Tableau
+# HR Analytics Case Study | Tableau
 
-## 👋 Introduction
+## 📘 Project Overview
 
-This project showcases an interactive HR analytics dashboard developed in Tableau. Using a structured set of CSV files and SQL preprocessing, it visualizes employee demographics, attrition patterns, and performance metrics to support data-driven decision-making in human resources.
+This HR analytics project explores employee data using Tableau to visualize workforce trends, employee performance, and attrition insights. The analysis focuses on understanding employee demographics, performance patterns, and organizational dynamics to support data-driven HR decisions.
 
-> 🔧 **Tools Used**: Tableau, SQL, CSV
+## 📂 Dataset Information
 
----
+The project uses the following CSV files:
 
-## 🗂️ Repository Structure
+- `Employee.csv`: Contains employee information (e.g., age, gender, department, job role, marital status, hire date, attrition).
+- `EducationLevel.csv`: Maps numerical education levels to descriptive labels (e.g., 1 = High School).
+- `PerformanceRating.csv`: Maps performance codes to rating labels (e.g., 3 = Exceeds Expectations).
 
-```plaintext
-HR-Analytics-Tableau/
-│
-├── HR Analytics Case Study.twb             # Tableau workbook with dashboards
-├── HR Analytics Case Study in SQL          # SQL queries used for data wrangling
-├── Employee.csv                            # Core employee data
-├── EducationLevel.csv                      # Maps education codes to readable levels
-├── PerformanceRating.csv                   # Maps performance rating codes to labels
-├── Atlas Labs BG.png                       # Screenshot of Tableau dashboard
-└── README.md                               # Project overview (this file)
-
----
+These datasets were preprocessed and joined using SQL before visualization in Tableau.
 
 ## 🎯 Project Objectives
-Explore workforce demographics across age, gender, education, marital status.
 
-Analyze attrition trends by department, tenure, job roles, and travel frequency.
+- Understand employee distribution across departments, age groups, and education levels.
+- Identify trends in employee attrition by department, job role, and tenure.
+- Visualize performance ratings and satisfaction metrics.
+- Build HR KPI dashboards showing total employees, attrition rate, and status breakdown.
 
-Evaluate performance ratings and employee satisfaction.
+## 🛠️ Tools Used
 
-Build KPI cards for total employees, attrition rate, and status breakdown.
+- **Tableau** – for data visualization and dashboard design.
+- **SQL** – for joining and cleaning CSV files.
+- **Microsoft Excel** – to prepare and inspect CSVs before loading into Tableau.
 
-🧪 Data Sources
-Employee.csv: Contains employee-level information (e.g., gender, department, age, job role, hire date, marital status, attrition status, etc.)
+## 📊 Key Dashboards
 
-EducationLevel.csv: Maps numeric codes to education levels (e.g., 1 = High School).
+The project includes one main dashboard in Tableau:
 
-PerformanceRating.csv: Maps performance rating codes to labels (e.g., 3 = Exceeds Expectations).
+### HR Dashboard
 
+Visualizes employee trends using multiple sheets, including:
+
+- **Attrition Analysis**: by department, education level, hire date, tenure, and travel.
+- **Demographics**: age groups, gender, marital status, education level.
+- **Hiring Trends**: hiring over time and attrition comparison.
+- **KPIs**: total employees, current employees, past employees, and attrition rate.
+
+Each chart and card is interactive and filterable for deep HR insight.
+
+## 📌 Insights Summary
+
+- Departments such as Sales and R&D show higher attrition.
+- Employees with frequent travel and lower education levels are more likely to leave.
+- Performance ratings are mostly consistent across gender and education level.
+- Most employees are aged 30–45 and are married, with a bachelor's degree.
+
+## 📷 Dashboard Preview
+
+> Include a screenshot here if uploading to GitHub  
+> Example:  
+> ![HR Dashboard](Atlas%20Labs%20BG.png)
