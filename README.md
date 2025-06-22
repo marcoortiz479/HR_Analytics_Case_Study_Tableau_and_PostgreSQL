@@ -20,7 +20,10 @@ HR-Analytics-Tableau/
 ├── PerformanceRating.csv                   # Maps performance rating codes to labels
 ├── Atlas Labs BG.png                       # Screenshot of Tableau dashboard
 └── README.md                               # Project overview (this file)
-🎯 Project Objectives
+
+---
+
+## 🎯 Project Objectives
 Explore workforce demographics across age, gender, education, marital status.
 
 Analyze attrition trends by department, tenure, job roles, and travel frequency.
