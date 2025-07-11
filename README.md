@@ -1,8 +1,8 @@
-# 📊 HR Analytics Case Study | Tableau
+# 📊 HR Analytics Case Study | Tableau & SQL
 
 ## 📘 Project Overview
 
-This HR analytics project explores employee data using Tableau to visualize workforce trends, employee performance, and attrition insights. The analysis focuses on understanding employee demographics, performance patterns, and organizational dynamics to support data-driven HR decisions.
+This HR analytics project explores employee data using Tableau and SQL to visualize workforce trends, employee performance, and attrition insights. The analysis focuses on understanding employee demographics, performance patterns, and organizational dynamics to support data-driven HR decisions.
 
 ## 📂 Dataset Information
 
