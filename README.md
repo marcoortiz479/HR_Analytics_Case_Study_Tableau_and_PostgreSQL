@@ -1,4 +1,4 @@
-# 📊 HR Analytics Case Study | Tableau & SQL
+# 📊 HR Analytics Case Study | Tableau and SQL
 
 ## 📘 Project Overview
 
