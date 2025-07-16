@@ -24,7 +24,7 @@ These datasets were preprocessed and joined using SQL before visualization in Ta
 ## 🛠️ Tools Used
 
 - **Tableau** – for data visualization and dashboard design.
-- **SQL** – for joining and cleaning CSV files.
+- **PostgreSQL** – for joining and cleaning CSV files.
 - **Microsoft Excel** – to prepare and inspect CSVs before loading into Tableau.
 
 ## 📊 Key Dashboards
