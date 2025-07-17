@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 
-This HR analytics project explores employee data using Tableau and SQL to visualize workforce trends, employee performance, and attrition insights. The analysis focuses on understanding employee demographics, performance patterns, and organizational dynamics to support data-driven HR decisions.
+Used advanced SQL to query 3,000+ employee records and identify attrition drivers across departments and job roles. Built an interactive Tableau dashboard highlighting turnover rates, performance scores, and tenure distributions.
 
 ## 📂 Dataset Information
 
