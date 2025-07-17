@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 
-Used advanced SQL to query 3,000+ employee records and identify attrition drivers across departments and job roles. Built an interactive Tableau dashboard highlighting turnover rates, performance scores, and tenure distributions.
+Used advanced SQL to query 1,450+ employee records and identify attrition drivers across departments and job roles. Built an interactive Tableau dashboard highlighting turnover rates, performance scores, and tenure distributions.
 
 ## 📂 Dataset Information
 
