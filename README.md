@@ -1,4 +1,4 @@
-# 📊 HR Analytics Case Study | Tableau and PostgreSQL (June 2024 - June 2025)
+# 📊 HR Analytics Case Study | Tableau and PostgreSQL (June 2025)
 
 ## 📘 Project Overview
 
